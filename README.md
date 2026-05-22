@@ -1,1 +1,0 @@
-# V_shirotsuki_runa_hp
