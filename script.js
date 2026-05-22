@@ -1,4 +1,4 @@
-javascript
+```javascript
 // スクロールフェード
 
 const sections = document.querySelectorAll(".content");
@@ -24,4 +24,4 @@ sections.forEach(section => {
   section.style.transform = "translateY(50px)";
   section.style.transition = "1s";
 });
-
+```
